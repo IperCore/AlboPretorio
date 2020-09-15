@@ -1,0 +1,20 @@
+[
+  {
+    "Codice": "Desio",
+    "LinkRSS": "https://desio.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1233686",
+    "LinkSito": "https://desio.trasparenza-valutazione-merito.it/web/albo/",
+    "CanaleTelegram": "https://t.me/infodesio"
+  },
+  {
+    "Codice": "Limbiate",
+    "LinkRSS": "https://limbiate.trasparenza-valutazione-merito.it/web/albo/papca-ap/-/papca/igrid/1228815",
+    "LinkSito": "https://limbiate.trasparenza-valutazione-merito.it/web/albo/",
+    "CanaleTelegram": "https://t.me/AlboPLimbiate"
+  },
+  {
+    "Codice": "Rozzano",
+    "LinkRSS": "http://trasparenza.comune.rozzano.mi.it/web/trasparenza/papca-ap/-/papca/igrid/3237",
+    "LinkSito": "http://trasparenza.comune.rozzano.mi.it/web/trasparenza/albo-pretorio",
+    "CanaleTelegram": "https://t.me/NewsRozzano"
+  }
+]
